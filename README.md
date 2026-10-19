@@ -19,7 +19,7 @@ My interests lie in offensive security, vulnerability research, and exploit deve
 
 - Focused on **Offensive Security and Vulnerability Research**
 - Interested in **Penetration Testing and Red Team Operations**
-- Conducting independent security research and responsible disclosure
+- Conducting independent security research and responsible vulnerability disclosure
 - Reported vulnerabilities assigned **CVE identifiers**
 - Exploring **Exploit Development and Reverse Engineering**
 - Interested in **Low-Level Security and Operating System Internals**
@@ -103,14 +103,12 @@ Two vulnerabilities I reported have been assigned CVE identifiers.
 
 ### Security Training Platforms
 
-<p align="left">
-  <a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-  </a>
-  <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-</p>
+<a href="https://profile.hackthebox.com/profile/019c503b-1e26-7277-bf2d-ec14600730b0">
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box Profile" />
+</a>
+<a href="https://tryhackme.com/p/d4viid">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+</a>
 
 ---
 
