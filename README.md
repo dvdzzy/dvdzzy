@@ -19,9 +19,9 @@ I'm passionate about offensive security, vulnerability research, and understandi
 
 - Focused on **Offensive Security and Vulnerability Research**
 - Interested in **Penetration Testing and Red Team Operations**
-- Conducting independent security research, including **CVE-associated vulnerability findings and CWE classifications**
+- Conducting independent security research and responsible vulnerability disclosure
+- Reported vulnerabilities assigned **CVE identifiers**
 - Exploring **Exploit Development and Security Engineering**
-- Developing skills in **Programming, Networking, and System Security**
 - Interested in **Low-Level Security and Operating System Internals**
 
 ---
@@ -44,7 +44,7 @@ I'm passionate about offensive security, vulnerability research, and understandi
 **Operating Systems & Development**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -64,7 +64,6 @@ I'm passionate about offensive security, vulnerability research, and understandi
 
 ![Exploit Development](https://img.shields.io/badge/Exploit_Development-30363D?style=flat-square)
 ![Source Code Analysis](https://img.shields.io/badge/Source_Code_Analysis-30363D?style=flat-square)
-![Security Research](https://img.shields.io/badge/Security_Research-30363D?style=flat-square)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-30363D?style=flat-square)
 
 **Areas of Interest**
@@ -76,13 +75,24 @@ I'm passionate about offensive security, vulnerability research, and understandi
 
 ---
 
-### Vulnerability Research & Disclosures
+### Certifications
 
-I conduct independent security research focused on identifying, analyzing, and responsibly disclosing vulnerabilities in software and web applications.
+**CWES — Certified Web Exploitation Specialist**
 
-My research includes vulnerability findings associated with **Common Vulnerabilities and Exposures (CVE)** records and weaknesses classified under the **Common Weakness Enumeration (CWE)** framework.
+![CWES](https://img.shields.io/badge/CWES-Certified_Web_Exploitation_Specialist-30363D?style=flat-square)
 
-I focus on reproducible findings, technical analysis, and responsible disclosure.
+---
+
+### Vulnerability Research & CVEs
+
+I conduct independent security research focused on vulnerability discovery, technical analysis, and responsible disclosure.
+
+Two vulnerabilities I reported have been assigned CVE identifiers.
+
+| CVE ID | Official Record |
+|--------|-----------------|
+| **CVE-2026-13693** | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-13693) |
+| **CVE-2026-13694** | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-13694) |
 
 ---
 
