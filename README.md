@@ -15,13 +15,13 @@
 
 I'm a **Computer Engineering student specializing in Cybersecurity** at **Vistula University** in Warsaw, Poland.
 
-I'm passionate about offensive security, vulnerability research, and understanding how complex systems work. My interests include identifying security weaknesses, analyzing software behavior, and exploring modern security techniques.
+My interests lie in offensive security, vulnerability research, and exploit development. I enjoy understanding how systems work, analyzing software, and identifying security weaknesses through independent research.
 
 - Focused on **Offensive Security and Vulnerability Research**
 - Interested in **Penetration Testing and Red Team Operations**
-- Conducting independent security research and responsible vulnerability disclosure
+- Conducting independent security research and responsible disclosure
 - Reported vulnerabilities assigned **CVE identifiers**
-- Exploring **Exploit Development and Security Engineering**
+- Exploring **Exploit Development and Reverse Engineering**
 - Interested in **Low-Level Security and Operating System Internals**
 
 ---
@@ -53,46 +53,51 @@ I'm passionate about offensive security, vulnerability research, and understandi
 
 ### Cybersecurity
 
-**Core Areas**
+My work and interests are centered around offensive security and vulnerability research, with an emphasis on understanding software behavior and identifying security weaknesses.
 
-![Offensive Security](https://img.shields.io/badge/Offensive_Security-30363D?style=flat-square)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability_Research-30363D?style=flat-square)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-30363D?style=flat-square)
-![Security Engineering](https://img.shields.io/badge/Security_Engineering-30363D?style=flat-square)
+**Primary Focus**
+- Offensive Security
+- Vulnerability Research
+- Web Application Security
+- Source Code Analysis
+- Security Testing & Assessment
 
 **Research & Development**
+- Exploit Development
+- Vulnerability Discovery
+- Proof-of-Concept Development
+- Reverse Engineering
 
-![Exploit Development](https://img.shields.io/badge/Exploit_Development-30363D?style=flat-square)
-![Source Code Analysis](https://img.shields.io/badge/Source_Code_Analysis-30363D?style=flat-square)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-30363D?style=flat-square)
-
-**Areas of Interest**
-
-![Red Team Operations](https://img.shields.io/badge/Red_Team_Operations-30363D?style=flat-square)
-![Network Security](https://img.shields.io/badge/Network_Security-30363D?style=flat-square)
-![System Security](https://img.shields.io/badge/System_Security-30363D?style=flat-square)
-![Low Level Security](https://img.shields.io/badge/Low_Level_Security-30363D?style=flat-square)
+**Further Interests**
+- Red Team Operations
+- Network & System Security
+- Binary Exploitation
+- Operating System Internals
 
 ---
 
 ### Certifications
 
-**CWES — Certified Web Exploitation Specialist**
+<a href="https://www.credly.com/badges/03ec9747-e945-4c26-b8db-678a5ae1190e/public_url">
+  <img src="https://img.shields.io/badge/HTB-CWES-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB CWES Certification" />
+</a>
 
-![CWES](https://img.shields.io/badge/CWES-Certified_Web_Exploitation_Specialist-30363D?style=flat-square)
+**Hack The Box Certified Web Exploitation Specialist (HTB CWES)**
+
+[Verify Certification on Credly](https://www.credly.com/badges/03ec9747-e945-4c26-b8db-678a5ae1190e/public_url)
 
 ---
 
 ### Vulnerability Research & CVEs
 
-I conduct independent security research focused on vulnerability discovery, technical analysis, and responsible disclosure.
+I conduct independent security research focused on discovering, analyzing, and responsibly disclosing security vulnerabilities.
 
 Two vulnerabilities I reported have been assigned CVE identifiers.
 
 | CVE ID | Official Record |
 |--------|-----------------|
-| **CVE-2026-13693** | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-13693) |
-| **CVE-2026-13694** | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-13694) |
+| **CVE-2026-13693** | [View on CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-13693) |
+| **CVE-2026-13694** | [View on CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-13694) |
 
 ---
 
